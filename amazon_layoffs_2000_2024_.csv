@@ -1,0 +1,69 @@
+Company,Date,Department,Location,Employees Laid Off,Total Employees(Before Layoff),Reason,Revenue (in Billion USD),Net Profit (in Billion USD),Stock Price (USD),Layoff Severity (%)
+Amazon,10-12-2004,Cloud,Europe,853,273205,Cost Cutting,21.73,1.07,96.09,0.31
+Amazon,10-09-2000,Ads,Europe,602,285648,Restructuring,19.96,2.09,64.84,0.21
+Amazon,11-12-2003,Marketing,US,265,744247,Automation,23.33,1.57,10.94,0.04
+Amazon,20-12-2004,HR,South America,245,633117,Post-acquisition Redundancy,41.75,5.13,18.76,0.04
+Amazon,17-04-2004,Retail,Europe,425,693577,Automation,31.82,4.45,17.63,0.06
+Amazon,22-03-2006,Finance,India,721,1170125,Performance Optimization,25.97,1.88,17.89,0.06
+Amazon,26-03-2007,Marketing,US,1476,1113743,Pandemic-related,31.76,3.2,14.48,0.13
+Amazon,01-03-2007,HR,Canada,850,279280,Post-acquisition Redundancy,36.39,4.95,61.2,0.3
+Amazon,27-05-2008,Cloud,South America,364,972457,Cost Cutting,26.12,1.26,21.63,0.04
+Amazon,18-04-2009,HR,Europe,916,1049536,Performance Optimization,3.35,0.42,17.67,0.09
+Amazon,05-07-2009,Cloud,India,1984,45007,Economic Downturn,43.34,5.33,26.66,4.41
+Amazon,24-02-2009,Logistics,Europe,1736,827507,Economic Downturn,41.55,2.2,91.58,0.21
+Amazon,22-04-2009,Retail,US,470,144091,Performance Optimization,20.86,1.1,60.72,0.33
+Amazon,21-03-2010,Retail,US,987,929850,Automation,381.38,9.74,3643.7,0.11
+Amazon,16-07-2010,Cloud,Canada,1129,766902,Cost Cutting,496.38,35.71,1468.86,0.15
+Amazon,14-04-2010,Cloud,Canada,1726,1093223,Pandemic-related,406.24,23.49,2727.84,0.16
+Amazon,22-05-2011,HR,Europe,895,124392,Cost Cutting,461.19,23.41,1037.01,0.72
+Amazon,17-04-2011,Ads,Europe,1903,708654,Economic Downturn,388.69,29.21,118.13,0.27
+Amazon,07-01-2011,Marketing,South America,359,1376038,Post-acquisition Redundancy,370.12,7.61,1817.6,0.03
+Amazon,10-03-2011,Ads,Canada,1745,1373501,Economic Downturn,315.33,29.04,3424.63,0.13
+Amazon,26-03-2011,Marketing,South America,966,750248,Economic Downturn,169.66,9.36,3064.23,0.13
+Amazon,07-11-2012,Marketing,Canada,1769,1001832,Cost Cutting,161.14,11.56,1502.74,0.18
+Amazon,08-01-2012,Logistics,Canada,1292,1540500,Economic Downturn,482.81,5.74,2764.21,0.08
+Amazon,25-08-2012,Logistics,Asia-Pacific,1477,593291,Automation,89.29,13.3,3191.92,0.25
+Amazon,09-12-2012,Ads,India,1561,736838,Automation,474.68,44.85,318.37,0.21
+Amazon,14-06-2013,Tech,South America,1888,95294,Performance Optimization,175.61,8.13,2881.22,1.98
+Amazon,24-07-2013,Finance,South America,160,1172548,Restructuring,219.92,30.38,2564.1,0.01
+Amazon,22-01-2013,Retail,South America,1078,610300,Economic Downturn,237.6,33.47,657.62,0.18
+Amazon,01-03-2013,Logistics,India,1879,1245880,Restructuring,412.52,5.79,1996.28,0.15
+Amazon,02-01-2014,Finance,Asia-Pacific,939,1305673,Pandemic-related,159.03,23.54,1242.08,0.07
+Amazon,18-06-2014,Finance,South America,1781,10230,Automation,211.43,7.32,2436.64,17.41
+Amazon,23-06-2015,Cloud,South America,443,1307653,Economic Downturn,63.11,7.94,2365.58,0.03
+Amazon,02-01-2015,Ads,Canada,402,257883,Economic Downturn,345.57,39.15,315.85,0.16
+Amazon,21-08-2015,HR,Europe,750,191170,Restructuring,385.26,29.94,1652.75,0.39
+Amazon,25-07-2015,Marketing,South America,1317,720108,Pandemic-related,409.3,15.68,3676.19,0.18
+Amazon,08-02-2016,Logistics,US,543,1072558,Restructuring,330.88,17.06,2582.81,0.05
+Amazon,14-01-2016,Finance,Asia-Pacific,1682,79004,Restructuring,354.26,46.86,2639.24,2.13
+Amazon,21-12-2016,Finance,Europe,1843,1281368,Cost Cutting,222.45,5.75,832.16,0.14
+Amazon,22-03-2016,Tech,Europe,1765,556416,Economic Downturn,232.96,18.57,3651.74,0.32
+Amazon,26-01-2017,Finance,South America,968,439987,Performance Optimization,267.87,13.87,2902.02,0.22
+Amazon,19-02-2017,Tech,Canada,808,449556,Cost Cutting,340.37,13.87,1791.38,0.18
+Amazon,26-02-2017,Marketing,US,1948,1462347,Economic Downturn,329.95,9.07,1763.41,0.13
+Amazon,28-05-2017,Tech,US,198,1594532,Post-acquisition Redundancy,275.24,7.07,2253.53,0.01
+Amazon,02-09-2017,Customer Support,Asia-Pacific,234,782230,Pandemic-related,273.17,19.82,521.51,0.03
+Amazon,01-05-2018,Customer Support,Europe,314,838009,Pandemic-related,102.18,3.77,3399.04,0.04
+Amazon,03-05-2018,Marketing,US,595,1208632,Post-acquisition Redundancy,178.32,19.87,2435.41,0.05
+Amazon,23-08-2018,Tech,US,753,797288,Post-acquisition Redundancy,359.75,8.97,3293.56,0.09
+Amazon,11-02-2018,Finance,Canada,1881,1556700,Restructuring,204.86,14.01,1713.12,0.12
+Amazon,23-05-2018,Ads,US,483,67382,Performance Optimization,474.98,13.92,269.03,0.72
+Amazon,18-09-2019,Finance,Asia-Pacific,886,1276719,Restructuring,101.4,2.93,2331.99,0.07
+Amazon,15-04-2019,Retail,Europe,433,1372203,Automation,357.71,24.48,2816.39,0.03
+Amazon,02-07-2019,Logistics,South America,518,1274802,Pandemic-related,359.16,18.59,1930.47,0.04
+Amazon,25-02-2020,Ads,Europe,6641,541242,Post-acquisition Redundancy,212.27,16.71,2166.54,1.23
+Amazon,21-10-2020,HR,Europe,6149,118845,Economic Downturn,201.09,27.44,516.74,5.17
+Amazon,28-04-2020,Cloud,Canada,9111,656503,Automation,410.73,35.06,1480.35,1.39
+Amazon,09-05-2020,Tech,Asia-Pacific,5051,866480,Cost Cutting,382.13,35.25,432.54,0.58
+Amazon,13-04-2021,Tech,Asia-Pacific,3215,910971,Post-acquisition Redundancy,357.69,27.95,934.59,0.35
+Amazon,08-03-2021,Logistics,India,5568,730285,Economic Downturn,85.75,11.42,2584.77,0.76
+Amazon,15-03-2021,Retail,India,7831,1537477,Pandemic-related,274.15,36.84,2575.45,0.51
+Amazon,18-08-2022,Cloud,Asia-Pacific,8076,792904,Pandemic-related,405.66,31.34,964.12,1.02
+Amazon,22-05-2023,Ads,US,1482,1504645,Economic Downturn,378.67,34.91,1128.61,0.1
+Amazon,16-03-2023,Logistics,US,1824,510244,Economic Downturn,483.54,31.65,3325.51,0.36
+Amazon,19-10-2023,Marketing,Asia-Pacific,230,411924,Economic Downturn,260.85,25.12,2550.78,0.06
+Amazon,18-06-2023,Finance,Canada,5343,1545227,Restructuring,459.21,25.37,1859.99,0.35
+Amazon,02-12-2023,Customer Support,Europe,6843,1004718,Post-acquisition Redundancy,495.83,47.43,3575.12,0.68
+Amazon,16-02-2024,Customer Support,US,5873,1159309,Cost Cutting,322.48,8.67,2436.83,0.51
+Amazon,04-09-2024,Customer Support,India,4262,1264458,Cost Cutting,211.67,17.27,3010.28,0.34
+Amazon,13-11-2024,Retail,Europe,1313,496999,Pandemic-related,323.73,7.75,708.88,0.26
